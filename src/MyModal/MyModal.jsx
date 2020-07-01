@@ -12,7 +12,7 @@ function MyModal() {
   return (
     <>
       <Button variant="primary" onClick={handleShow}>
-        Launch demo modal
+        Launch Static Markup Modal
       </Button>
 
       <Modal show={show} onHide={handleClose}>
